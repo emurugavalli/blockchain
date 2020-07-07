@@ -1,3 +1,2 @@
 # blockchain
-Trail code
-This is a trail code.
+This will be giving basic implementation of blockchain in Python Language.
